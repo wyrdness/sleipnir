@@ -1,0 +1,312 @@
+{
+  "category": "MYTHOLOGICAL_CREATURE",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/sleipnir",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "sleipnir",
+    "name": "Sleipnir",
+    "aliases": [
+      {
+        "name": "Sleipner",
+        "language": "Old Norse",
+        "region": "Scandinavia"
+      }
+    ],
+    "category": "MYTHOLOGICAL_CREATURE",
+    "subcategory": "Divine Beast",
+    "tags": [
+      "eight-legged-horse",
+      "norse-mythology",
+      "odin",
+      "mount",
+      "shamanic",
+      "world-traveler"
+    ],
+    "status": "mythological",
+    "description": {
+      "summary": "The eight-legged horse of Odin in Norse mythology, fastest of all horses, capable of traveling between the Nine Worlds. Born from Loki in mare form after mating with the stallion Svaðilfari.",
+      "full": "Sleipnir is the eight-legged grey horse of Odin, the Allfather in Norse mythology. Born from the trickster god Loki (who transformed into a mare) and the jötunn's stallion Svaðilfari, Sleipnir is described as the best and fastest of all horses. With eight legs, Sleipnir can travel across land, sea, and air, and journey between the Nine Worlds of Norse cosmology, including the realm of the dead. The horse famously carried Hermóðr to Hel in an attempt to retrieve the god Baldr. Sleipnir's teeth are carved with runes, marking his magical nature. As Odin's exclusive mount, Sleipnir symbolizes shamanic journeys, the crossing of boundaries between life and death, and the ability to traverse all realms of existence. The eight-legged horse appears throughout Norse mythology and art as an emblem of supernatural travel and divine power."
+    },
+    "etymology": {
+      "origin": "Old Norse 'Sleipnir', possibly meaning 'the sliding one' or 'the slipper'",
+      "meaning": "Related to slipping or gliding, referencing smooth, swift movement",
+      "first_use": "Old Norse texts, Poetic Edda and Prose Edda (13th century recordings of earlier oral tradition)"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "MYTHOLOGICAL_CREATURE",
+      "type": "Divine Beast",
+      "subtype": "Multi-legged Horse",
+      "variant": "Norse"
+    },
+    "related_phenomena": [
+      {
+        "id": "pegasus",
+        "name": "Pegasus",
+        "relationship": "similar",
+        "description": "Greek winged divine horse with supernatural abilities"
+      },
+      {
+        "id": "fenrir",
+        "name": "Fenrir",
+        "relationship": "cousin",
+        "description": "Monstrous wolf, also child of Loki"
+      },
+      {
+        "id": "jormungandr",
+        "name": "Jörmungandr",
+        "relationship": "cousin",
+        "description": "World Serpent, child of Loki"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "appearance": "Eight-legged grey horse of extraordinary size and power",
+      "coloration": [
+        "grey",
+        "gray"
+      ],
+      "features": [
+        {
+          "feature": "Eight legs",
+          "description": "Four pairs of legs enabling supernatural speed",
+          "frequency": "always"
+        },
+        {
+          "feature": "Runic teeth",
+          "description": "Runes carved on teeth, marking magical nature",
+          "frequency": "always"
+        },
+        {
+          "feature": "Superior size",
+          "description": "Larger and more powerful than normal horses",
+          "frequency": "always"
+        }
+      ],
+      "morphology": "Eight-legged horse of grey color, fastest of all steeds"
+    },
+    "abilities": [
+      {
+        "ability": "Realm travel",
+        "description": "Can travel between all Nine Worlds of Norse cosmology",
+        "frequency": "always",
+        "evidence_level": "mythological"
+      },
+      {
+        "ability": "Flight over sea and air",
+        "description": "Can ride through sky and over ocean",
+        "frequency": "always",
+        "evidence_level": "mythological"
+      },
+      {
+        "ability": "Journey to underworld",
+        "description": "Can enter Hel (realm of the dead) and return",
+        "frequency": "documented",
+        "evidence_level": "mythological"
+      },
+      {
+        "ability": "Superhuman speed",
+        "description": "Fastest of all horses, supernatural swiftness",
+        "frequency": "always",
+        "evidence_level": "mythological"
+      }
+    ],
+    "behavior": {
+      "disposition": "divine",
+      "temperament": "Loyal exclusively to Odin",
+      "notable_acts": [
+        "Carried Hermóðr to Hel to attempt Baldr's retrieval",
+        "Bears Odin through all Nine Worlds",
+        "Travels between realms of living and dead",
+        "Participates in Odin's shamanic journeys"
+      ]
+    }
+  },
+
+  "mythology": {
+    "origin_story": {
+      "birth": "Born to Loki (in mare form) after mating with the jötunn's stallion Svaðilfari during the building of Asgard's wall",
+      "parents": {
+        "mother": "Loki (shape-shifted into mare)",
+        "father": "Svaðilfari (powerful stallion belonging to a jötunn/giant)"
+      },
+      "context": "The gods hired a builder to construct Asgard's wall, promising the sun, moon, and Freyja as payment if completed in impossible time. When the builder's stallion Svaðilfari made success likely, Loki transformed into a mare to distract the stallion, ultimately giving birth to Sleipnir."
+    },
+    "major_myths": [
+      {
+        "title": "Birth and the Building of Asgard",
+        "description": "Created when Loki, as a mare, lured away the builder's stallion Svaðilfari, preventing completion of Asgard's wall"
+      },
+      {
+        "title": "Hermóðr's Journey to Hel",
+        "description": "After Baldr's death, Odin lent Sleipnir to Hermóðr to ride to Hel and attempt to bring Baldr back from the dead"
+      },
+      {
+        "title": "Odin's Shamanic Journeys",
+        "description": "Sleipnir carries Odin on his travels between worlds, including journeys to gain wisdom"
+      },
+      {
+        "title": "Fastest of All Horses",
+        "description": "Renowned throughout the Nine Worlds as the swiftest steed"
+      }
+    ],
+    "symbolism": [
+      {
+        "concept": "Shamanic journey",
+        "explanation": "Represents the shaman's spirit journey between worlds and states of consciousness"
+      },
+      {
+        "concept": "Crossing boundaries",
+        "explanation": "Ability to traverse all realms symbolizes transcendence of normal limits"
+      },
+      {
+        "concept": "Life and death",
+        "explanation": "Can travel to land of dead and return, symbolizing mastery over death"
+      },
+      {
+        "concept": "Odin's power",
+        "explanation": "As Odin's exclusive mount, represents the Allfather's authority and wisdom"
+      }
+    ],
+    "cultural_significance": "Sleipnir embodies the Norse concept of movement between worlds and the breaking of boundaries. The eight-legged motif appears in Viking art and may represent shamanic practices. Sleipnir is a symbol of supernatural travel and divine knowledge."
+  },
+
+  "distribution": {
+    "cultural_range": {
+      "origin": "Norse/Scandinavian mythology",
+      "geographic_focus": [
+        "Scandinavia (Norway, Sweden, Denmark, Iceland)",
+        "Germanic regions",
+        "Viking settlements"
+      ],
+      "spread": "Across Norse cultural sphere, including British Isles, Iceland, Greenland during Viking Age"
+    },
+    "archaeological_evidence": [
+      {
+        "type": "Picture stones",
+        "location": "Gotland, Sweden",
+        "description": "Stones depicting eight-legged horses, likely Sleipnir",
+        "date": "Viking Age (8th-11th centuries)"
+      },
+      {
+        "type": "Bracteates",
+        "location": "Various Germanic regions",
+        "description": "Gold bracteates showing riders on multi-legged horses",
+        "date": "Migration Period (5th-6th centuries)"
+      }
+    ]
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Norse/Germanic mythology and shamanic traditions",
+      "earliest_sources": "Poetic Edda (compiled 13th century from earlier oral tradition)",
+      "development": "Part of Odin mythology, connected to shamanic practices"
+    },
+    "timeline": [
+      {
+        "date": "5th-6th century CE",
+        "event": "Migration Period art",
+        "significance": "Gold bracteates show multi-legged horses, possible early Sleipnir depictions"
+      },
+      {
+        "date": "8th-11th century CE",
+        "event": "Viking Age depictions",
+        "significance": "Eight-legged horses appear on Gotlandic picture stones"
+      },
+      {
+        "date": "~1220 CE",
+        "event": "Prose Edda",
+        "significance": "Snorri Sturluson records detailed myths of Sleipnir"
+      },
+      {
+        "date": "13th century CE",
+        "event": "Poetic Edda compiled",
+        "significance": "Collection of older poems including Sleipnir references"
+      },
+      {
+        "date": "Modern Era",
+        "event": "Cultural revival",
+        "significance": "Sleipnir in modern Norse-inspired fiction, games, and metal music"
+      }
+    ]
+  },
+
+  "cultural": {
+    "ancient_sources": [
+      "Poetic Edda (Grímnismál, Baldrs draumar, Sigrdrífumál)",
+      "Prose Edda (Gylfaginning)",
+      "Völsunga saga"
+    ],
+    "popular_culture": {
+      "literature": [
+        "Marvel Comics (Odin's steed in Thor comics)",
+        "Neil Gaiman's Norse Mythology",
+        "Various fantasy novels"
+      ],
+      "film_tv": [
+        "Marvel Cinematic Universe (referenced)",
+        "Vikings and other Norse-themed media"
+      ],
+      "games": [
+        "God of War series",
+        "Assassin's Creed Valhalla",
+        "Various RPGs and Norse-themed games"
+      ],
+      "other": [
+        "Heavy metal band imagery",
+        "Scandinavian cultural symbols",
+        "Neo-pagan and Heathen symbolism"
+      ]
+    },
+    "modern_usage": "Symbol of Norse heritage, used in Scandinavian contexts. Popular in fantasy media, Norse mythology retellings, and as symbol of supernatural speed and power."
+  },
+
+  "sources": [
+    {
+      "id": "poetic-edda",
+      "type": "ancient_text",
+      "title": "Poetic Edda",
+      "date": "13th century (compiled from earlier sources)",
+      "description": "Primary source for Norse mythology including Sleipnir"
+    },
+    {
+      "id": "prose-edda",
+      "type": "ancient_text",
+      "title": "Prose Edda",
+      "authors": ["Snorri Sturluson"],
+      "date": "~1220",
+      "description": "Detailed account of Sleipnir's birth and role"
+    },
+    {
+      "id": "lindow-2001",
+      "type": "book",
+      "title": "Norse Mythology: A Guide to Gods, Heroes, Rituals, and Beliefs",
+      "authors": ["John Lindow"],
+      "publication": "Oxford University Press",
+      "date": "2001",
+      "isbn": "978-0195153828"
+    }
+  ]
+}
